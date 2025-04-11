@@ -1,0 +1,10 @@
+class hello {
+    public static void main(String[] args) {
+        int a=96;
+        int b=86;
+        int c=56;
+        System.out.println("addition of three numbers");
+        System.out.println(a+b+c);
+       
+    }
+}
