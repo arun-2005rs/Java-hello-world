@@ -1,0 +1,9 @@
+class hello {
+    public static void main(String[] args) {
+        int container1=96;
+        String a = "java";
+        String container2=a;
+        System.out.println(container1);
+        System.out.println(container2);
+    }
+}
